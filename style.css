@@ -1,0 +1,33 @@
+body{
+    background-color:gray;
+    margin: 0%;
+    
+}
+.container{
+    height: 100%;
+    margin-left: 1260px;
+    background-color:azure;
+    padding: 20px;
+    border-radius: 20px 0 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+h1{
+    margin: top 0px;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+button{
+    border-style: none;
+    border-radius: 10px;
+    background-color:#CEF6F5;
+    
+    
+}
