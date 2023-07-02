@@ -4,13 +4,14 @@ body{
     
 }
 .container{
-    height: 100%;
-    margin-left: 1260px;
+    height: 750px;
+    margin-left: 1200px;
     background-color:azure;
     padding: 20px;
     border-radius: 20px 0 0 20px;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
+    
 }
 
 h1{
